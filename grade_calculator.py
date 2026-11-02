@@ -2,7 +2,7 @@
 
 # Takes a student's name
 
-name = input("\nTakes a student's name: ")
+name = input("\nEnter student name: ")
 
 
 # Takes marks for three subjects

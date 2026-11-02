@@ -14,6 +14,8 @@ marks_2 = int(input("Enter English marks: "))
 marks_3 = int(input("Enter Python marks: "))
 
 
+# Validation for marks for below 0 & above 100
+
 if marks_1 < 0 or marks_1 > 100:
     
     print("\nInvalid marks! All marks must be between 0 and 100.")

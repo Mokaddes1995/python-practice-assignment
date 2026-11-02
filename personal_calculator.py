@@ -1,11 +1,11 @@
-# Python Personal Calculator Project
+# Python Personal_Calculator Program
 
 
 # Ask the user for name
 
 name = input("\nEnter your name: ")
 
-# Ask for their age
+# Ask for age
 
 age = int(input("Enter your age: "))
 
